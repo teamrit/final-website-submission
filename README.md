@@ -7,6 +7,7 @@
  **Created for**                     | Web and Internet Fundamentals Course ( **COMP 1008** ) |
  **Remarks**                         | _"Displayed use of all of the technologies taught in Class"_|
  **Remarks by:**                     | **Jessica Gilfilan** (Course Instructor)
+ **Time** | 12, 2017
 
 # Softwares:
 
