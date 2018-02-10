@@ -8,7 +8,9 @@
   Web and Internet Fundamentals Course **COMP 1008**
 
 # Created Using:
-  # Softwares
-    > Adobe Dreamweaver *Code Editor*
-  # Languages
-  
+  | Languages  | Softwares | Frameworks
+| ------------- | ------------- | ------------- |
+| HTML | Adobe Dreamweaver  | |
+| CSS | Google Chrome  | |
+  | Javascript |   | |
+| CSS | | |
